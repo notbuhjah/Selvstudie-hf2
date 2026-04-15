@@ -1,5 +1,3 @@
-package ClassDyr.Dyr;
-
 public class Cat extends Animal {   
     public Cat(String name, Integer age, Integer antalBen, String[] farver, Float vægt) {
         super(name, age, antalBen, farver, vægt);
