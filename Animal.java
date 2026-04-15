@@ -1,5 +1,3 @@
-package ClassDyr.Dyr;
-
 import java.util.Arrays;
 
 public abstract class Animal {
