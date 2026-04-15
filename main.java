@@ -1,5 +1,3 @@
-package ClassDyr;
-
 import java.util.ArrayList;
 import java.util.List;
 
